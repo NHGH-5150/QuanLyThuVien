@@ -5,6 +5,7 @@ import java.util.Scanner;
 public class Tuan2 {
 	public static void main(String[] args)
 	{		
+		System.out.println("Thực hành lập trình hướng đối tượng. Tuần 2");
 		Scanner scanner = new Scanner(System.in);
 		
 		System.out.println("Số đầu tiên: ");
