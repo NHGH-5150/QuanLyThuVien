@@ -1,8 +1,8 @@
-package NHGH;
-
+package BaiTap;
 import java.util.Scanner;
 
-public class Tuan2 {
+public class BaiDauTien
+{
 	public static void main(String[] args)
 	{		
 		System.out.println("Thực hành lập trình hướng đối tượng. Tuần 2");
@@ -19,3 +19,4 @@ public class Tuan2 {
 		scanner.close();
 	}
 }
+
